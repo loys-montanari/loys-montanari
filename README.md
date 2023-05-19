@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter**, **Python**, **c#** and many others
 
-- 📫 How to reach me **loyslenem@gmail.com**
-
 
 <div>
     <a href="https://github.com/loys-montanari">
