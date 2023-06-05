@@ -6,7 +6,6 @@
 <div>
     <a href="https://github.com/loys-montanari">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=loys-montanari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=loys-montanari&theme=dracula"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
