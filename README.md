@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Flutter**, **Python**, **c#** and many others
 
-
 <div>
     <a href="https://github.com/loys-montanari">
-       
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loys-montanari&theme=radical&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loys-montanari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loys-montanari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
